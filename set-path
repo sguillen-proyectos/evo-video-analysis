@@ -1,0 +1,2 @@
+export PATH=$PATH:/home/donkeysharp/installers/others/Bento4/bin/
+source env/bin/activate
